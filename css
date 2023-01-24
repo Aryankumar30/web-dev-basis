@@ -1,1 +1,39 @@
+gradient - ramayan colour
+overflow - scroll, hide ( content from box)
+position property - static , absolute(nearest non static) , relative ( from normal ) , fixed , sticky
+
+2d transform - in 2d 
+3d - in 3d]
+
+
+flex box 
+display - flex
+
+container
+flex-direction - row-reverse;
+wrap 
+flow
+justify content 
+align item
+align self - within its flex container
+
+item
+
+order 
+flex grow
+flex shrink
+flex - basic
+flex
+align self
+
+
+-- grid specific to layout / in 2d (flecx in 1d )
+
+display - grid
+
+grid-templete-row: - defines no of row 
+gap:15px;
+grid-row-start:1;
+grid-row-end:1;
+grid-area:1/2/3/4;
 
