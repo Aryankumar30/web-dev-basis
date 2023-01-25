@@ -11,12 +11,12 @@ display - flex
 
 container
 flex-direction - row-reverse;
-wrap 
+flex-wrap - outside ho rha hoga tho adjust kr dega 
 flow
 justify content 
 align item
 align self - within its flex container
-
+flex content - flex box start , end ,center ke skte hai 
 item
 
 order 
